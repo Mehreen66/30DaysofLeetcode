@@ -4,13 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: int
         """
-        maxi = mini = res = nums[0]
+        maximum = minimum = ans = nums[0]
 
         for num in nums[1:]:
-            currMax = max(maxi * num, mini * num, num)
-            currMin = min(maxi * num, mini * num, num)
-            maxi = currMax
-            mini = currMin
-            res = max(res, maxi)
+            currMax = max(maximum * num, minimum * num, num)
+            currMin = min(maximum * num, minimum * num, num)
+            maximum = currMax
+            minimum = currMin
+            ans = max(ans, maximum)
         
-        return res
+        return ans
