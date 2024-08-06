@@ -62,8 +62,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0371-sum-of-two-integers) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0268-missing-number) |
+| [0371-sum-of-two-integers](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
