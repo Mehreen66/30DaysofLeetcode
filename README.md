@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0338-counting-bits](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0338-counting-bits) |
+| [0647-palindromic-substrings](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0647-palindromic-substrings) |
 ## Sorting
 |  |
 | ------- |
@@ -67,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0015-3sum) |
 | [0125-valid-palindrome](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0125-valid-palindrome) |
+| [0647-palindromic-substrings](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0647-palindromic-substrings) |
 ## Greedy
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0125-valid-palindrome](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0424-longest-repeating-character-replacement) |
+| [0647-palindromic-substrings](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0647-palindromic-substrings) |
 ## Sliding Window
 |  |
 | ------- |
