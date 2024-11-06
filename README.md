@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0049-group-anagrams](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0217-contains-duplicate) |
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/Mehreen66/30DaysofLeetcode/tree/master/0268-missing-number) |
